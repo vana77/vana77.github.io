@@ -1,0 +1,7 @@
+@article{lin2018bayesian,
+  title={Bayesian Query Expansion for Multi-Camera Person Re-identification},
+  author={Lin, Yutian and Zheng, Zhedong and Zhang, Hong and Gao, Chenqiang and Yang, Yi},
+  journal={Pattern Recognition Letters},
+  year={2018},
+  publisher={Elsevier}
+}
