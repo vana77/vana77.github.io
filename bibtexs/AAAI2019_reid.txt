@@ -1,0 +1,6 @@
+@inproceedings{lin2019aBottom,
+  title     = {A Bottom-Up Clustering Approach to Unsupervised Person Re-identification},
+  author    = {Lin, Yutian and Dong, Xuanyi and Zheng, Liang and Yan, Yan and Yang, Yi},
+  booktitle = {AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2019}
+}
