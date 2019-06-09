@@ -1,6 +1,8 @@
-@article{lin2017improving,
+@article{lin2019improving,
   title={Improving Person Re-identification by Attribute and Identity Learning},
-  author={Lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu, Yu and, Yang, Yi},
-  journal={arXiv preprint arXiv:1703.07220},
-  year={2017}
+  author={Lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu, Yu and Zhilan, Hu and Chenggang, Yan and Yang, Yi},
+  journal={Pattern Recognition},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2019.06.006},
+  year={2019}
 }
