@@ -1,0 +1,7 @@
+@article{lin2020_unsupervised,
+  title = {Unsupervised Person Re-identification via Cross-camera Similarity Exploration},
+  author = {Lin, Yutian and Wu, Yu and Yan, Chenggang and Xu, Mingliang and Yang, Yi},
+  journal = {IEEE Transactions on Image Processing},
+  doi = {https://doi.org/10.1109/TIP.2020.2982826},
+  year = {2020}
+}
